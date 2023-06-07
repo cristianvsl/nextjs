@@ -32,7 +32,7 @@ export default function Home() {
         <Image
           className={styles.logo}
           src="/next.svg"
-          alt="Next.js Logo"
+          alt="Sample TEXT Logo"
           width={180}
           height={37}
           priority
